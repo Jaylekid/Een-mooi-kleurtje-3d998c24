@@ -1,0 +1,16 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+h2 {
+  color: purple;
+}
+
+li {
+  color: red;
+  font-size: 250%;
+}
